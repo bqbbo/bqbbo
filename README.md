@@ -2,8 +2,6 @@
 
 I'm a fourteen-year-old intermediate programmer who occasionally opens an IDE to experiment with some code. I have knowledge of various languages and CS concepts. Learn more about me by visiting [my website](https://bobboe.live).
 
-I'm looking forward to the next major project, whenever that will be...
-
 ### Experience
 
 * Programming since **2020**
@@ -17,7 +15,7 @@ I'm looking forward to the next major project, whenever that will be...
 
 ### Learning / Future Goals
 
-I have a lot of learning to do...
+I'm interested in a lot of different CS topics; below are some of my learning goals.
 
 * I plan to learn C++ and some popular frameworks to help develop a large upcoming project.
 * I'm learning Java and other CS concepts while developing a project, [jlox](https://github.com/bqbbo/jlox-interpreter).
