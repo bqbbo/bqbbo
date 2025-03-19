@@ -2,6 +2,8 @@
 
 I'm a fourteen-year-old intermediate programmer who occasionally opens an IDE to experiment with some code. I have knowledge of various languages and CS concepts. Learn more about me by visiting [my website](https://bobboe.live).
 
+---
+
 ### Experience
 
 * Programming since **2020**
@@ -12,6 +14,8 @@ I'm a fourteen-year-old intermediate programmer who occasionally opens an IDE to
 * Knowledgable in Linux & MS-DOS
 * Experienced with system administration & upkeep
 * Dabbles with electrical engineering & robotics
+
+---
 
 ### Learning / Future Goals
 
@@ -32,13 +36,19 @@ Plenty of future goals and projects. I'd like to:
 * Finish leftover projects and add missing functionality to working ones
 * Develop my two domains into completed portfolio websites
 
+---
+
 ### Projects
 
 My major projects are developed using static web languages and Python. Some other minor projects dabble in other languages like Node. If you'd like to learn more about all my repositories, please see their general overviews listed in [PROJECTS.md](https://github.com/bqbbo/bqbbo/blob/main/PROJECTS.md).
 
+---
+
 ### Contact
 
 If you'd like to contact me to inquire about myself, a project, or anything else, please [email me](mailto:bobbye23899@gmail.com)! Other socials are linked with my GitHub account.
+
+---
 
 ### Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bqbbo&show_icons=true&theme=merko" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqbbo&theme=merko&layout=compact" /> </p>
