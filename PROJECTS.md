@@ -30,7 +30,7 @@ Tester is a static HTML project that aims to help aid memorization using an impo
 
 This was created during our school's Constitutional Challenge. It includes 250+ questions across five different categories, all available as presets on the website.
 
-Despite its simplicity, I hope to expand this project as it was extremely beneficial for memorization. The website can be accessed [here](https://dacoder101.github.io/tester).
+Despite its simplicity, I hope to expand this project as it was extremely beneficial for memorization. The website can be accessed [here](https://bqbbo.github.io/tester).
 
 ### [jlox-interpreter](https://github.com/bqbbo/jlox-interpreter) - Dynamically typed, interpreted programming language
 
