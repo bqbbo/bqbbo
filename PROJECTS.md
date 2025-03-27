@@ -32,7 +32,7 @@ This was created during our school's Constitutional Challenge. It includes 250+ 
 
 Despite its simplicity, I hope to expand this project as it was extremely beneficial for memorization. The website can be accessed [here](https://dacoder101.github.io/tester).
 
-### [jlox Interpreter](https://github.com/bqbbo/jlox-interpreter) - Dynamically typed, interpreted programming language
+### [jlox-interpreter](https://github.com/bqbbo/jlox-interpreter) - Dynamically typed, interpreted programming language
 
 This project is guided by *[Crafting Interpreters](https://craftinginterpreters.com/)* written by Robert Nystrom. jlox is a dynamic, interpreted programming language written in Java. It is complete with standard control flow with support for functional and object-oriented programming.
 
