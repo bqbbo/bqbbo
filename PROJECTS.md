@@ -18,7 +18,7 @@ Many of my "finished" projects are not being maintained and probably have a mess
 
 This repository is currently my largest project, as of this commit. This bot is inspired by math worksheets that limit the numbers you can use in combination with mathematical operations to evaluate a certain product. I started this project after almost completing a "2024 Challenge" worksheet, which involved calculating every number from 1 to 100 using only 2, 0, 2, and 4.
 
-The bot is initialized with a dictionary-like or list-like string with somewhat interpreted validation. This part is somewhat messy and was the most difficult part of the project. After a game is initialized, the bot keeps track of a list of numbers and users can submit and view their equations.
+The bot is initialized with a dictionary-like or list-like string with somewhat interpreted validation. This part is somewhat messy and was the most difficult part of the project. After a game is initialized, the bot keeps track of a list of numbers, and users can submit and view their equations.
 
 This was the first project where I fully understood and utilized object-oriented programming. It is complete with a simple math **interpreter** for handling user input, complete with a scanner and parser.
 
@@ -32,7 +32,7 @@ This was created during our school's Constitutional Challenge. It includes 250+ 
 
 Despite its simplicity, I hope to expand this project as it was extremely beneficial for memorization. The website can be accessed [here](https://dacoder101.github.io/tester).
 
-### jlox (currently undergoing revamp) - Dynamically typed, interpreted programming language
+### [jlox Interpreter](https://github.com/bqbbo/jlox-interpreter) - Dynamically typed, interpreted programming language
 
 This project is guided by *[Crafting Interpreters](https://craftinginterpreters.com/)* written by Robert Nystrom. jlox is a dynamic, interpreted programming language written in Java. It is complete with standard control flow with support for functional and object-oriented programming.
 
