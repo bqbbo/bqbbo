@@ -27,7 +27,7 @@ Additionally, I'd like to get my portfolio website running, complete my Linux de
 
 ### Contact
 
-If you'd like to contact me to inquire about myself, a project, or anything else, please [**email me**](mailto:bobbye23899@gmail.com).
+If you'd like to contact me to inquire about myself, a project, or anything else, please [**email me.**](mailto:bobbye23899@gmail.com)
 
 ---
 
