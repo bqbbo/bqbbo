@@ -47,3 +47,9 @@ Developing this has taught me the orientation of Java's structures and paradigms
 I started this project in 6th grade and successfully wrote the lexer with some additional tokens. However, I ended up forgetting about it and only revisited it from scratch recently. The new code up to Chapter 9 is available in the updated repository, which can parse completed statements.
 
 I would highly recommend the book. The C portion of the project will be developed after I finish the Java section.
+
+### School Projects
+
+My school projects stem from 8th grade, where I've implemented some web applications targeting history and science. I created [**civil-war-project**](https://github.com/bqbbo/civil-war-project) for my 8th grade social studies final, and [**galactic-tourism-project**](https://github.com/bqbbo/galactic-tourism-project) to complete a themed astronomy assignment.
+
+Both applications used web tools HTML, CSS, and JavaScript, with some expansions using React for additional functionality.
