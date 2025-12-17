@@ -6,7 +6,7 @@ Welcome to my GitHub page! I've been a hobbyist programmer creating web applicat
 
 ### Projects
 
-My major projects include my Discord bots [**birthday-bot**](https://github.com/bqbbo/birthday-bot) and [**math-game-bot**](https://github.com/bqbbo/math-game-bot), and web tools like [**tester**](https://github.com/bqbbo/tester). Additionally, I'm working on larger projects like Java-typed [**jlox**](https://github.com/bqbbo/jlox-interpreter) programming language, and a (currently private) Boy Scout library management system.
+My major projects include my Discord bots [**birthday-bot**](https://github.com/bqbbo/birthday-bot) and [**math-game-bot,**](https://github.com/bqbbo/math-game-bot) and web tools like [**tester.**](https://github.com/bqbbo/tester) Additionally, I'm working on larger projects like Java-typed [**jlox**](https://github.com/bqbbo/jlox-interpreter) programming language, and a (currently private) Boy Scout library management system.
 
 Additional project descriptions can be found [**here,**](https://github.com/bqbbo/bqbbo/PROJECTS.md) and my full list of repositories can be found [**here.**](https://github.com/bqbbo?tab=repositories)
 
